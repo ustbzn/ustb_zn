@@ -1,0 +1,9 @@
+int32 n_terminal
+int32 state
+int32 lable
+int32 terminal_1
+float64 T1
+int32 terminal_2
+float64 T2
+int32 terminal_3
+float64 T3
